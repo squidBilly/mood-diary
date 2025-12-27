@@ -1,2 +1,3 @@
 # mood-diary
-An Android app. 
+A Journal app that focuses on the feelings and impressions of the user 
+instead of facts. 
